@@ -1,0 +1,1 @@
+This Repository is about embedded systems. Here there will be concepts related to Embedded systems, such as protocols, baremetal-codes for devices like LCD display and etc.
