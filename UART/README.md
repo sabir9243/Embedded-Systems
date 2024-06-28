@@ -15,5 +15,5 @@ Code requirements:
     We need to configure the Serial Interrupt in order to receive data.
 
 Note:
-    The devices may have different commands and may have different pin confige read the datasheet carefully, in this project i have used multisim as simulation software.
+    The devices may have different commands and may have different pin configuration read the datasheet carefully, in this project i have used multisim as simulation software.
 
