@@ -14,3 +14,6 @@ Code requirements:
     We need to configure the mode of UART in 8051, here we used mode1 which transfers 8bits with a starting and ending bits, it do not include parity bits.
     We need to configure the Serial Interrupt in order to receive data.
 
+Note:
+    The devices may have different commands and may have different pin confige read the datasheet carefully, in this project i have used multisim as simulation software.
+
